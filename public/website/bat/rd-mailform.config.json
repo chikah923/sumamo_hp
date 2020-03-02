@@ -1,0 +1,8 @@
+{
+  "useSmtp": true,
+  "host": "stmp.gmail.com",              
+  "port": 465,													 
+  "username": "chikah923@gmail.com",					 
+  "password": "jetli1affection",						 
+  "recipientEmail":  "chika.hirano@leverages.jp"		 
+}
